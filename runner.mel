@@ -1,0 +1,3 @@
+print("**********MEL SCRIPT**********/n");
+python("import BBF.Common.Tools.repath_tool.main as repath_tool; repath_tool.run()");
+quit -f;
